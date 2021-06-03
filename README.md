@@ -3,7 +3,7 @@
 - Single Responsibility Entity: Entidades, modelos, classes ou serviços devem ter somente uma responsabilidade
   - [Bad](https://github.com/linqueta/ruby-solid/blob/main/01-single-responsability-entity/bad.rb)
   - [Good](https://github.com/linqueta/ruby-solid/blob/main/01-single-responsability-entity/good.rb)
-- Open-Closed: Entidades devem estar abertos para extensão e fechadas para modificação. Em outras palavras, pode-se plugar código ao invés de modificar o comportamento
+- Open-Closed: Entidades devem estar abertas para extensão e fechadas para modificação. Em outras palavras, pode-se plugar código ao invés de modificar o comportamento
   - [Bad](https://github.com/linqueta/ruby-solid/blob/main/02-open-closed/bad.rb)
   - [Good](https://github.com/linqueta/ruby-solid/blob/main/02-open-closed/good.rb)
 - Liskov Substitution: Heranças devem permanecer com os comportamentos iniciais mesmo que em classes que herdaram de outras

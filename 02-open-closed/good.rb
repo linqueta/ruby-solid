@@ -20,7 +20,7 @@ end
 # porém, a classe Painter sabe pintar além de cortar. Dessa forma, contemplamos o princípio Open-Closed,
 # onde extendemos os comportamentos da classe Worker sem modifica-la.
 
-# Outro exemplo
+# ------------------------------------ #
 
 class Api::V1::AuthorizationHandler
   def authorize

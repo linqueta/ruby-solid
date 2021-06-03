@@ -12,7 +12,7 @@ end
 
 class Painter < Cutter
   def cut
-    raise StandardError
+    raise NoMethodError
   end
 
   def paint
